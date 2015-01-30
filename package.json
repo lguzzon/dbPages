@@ -1,0 +1,12 @@
+{
+    "dependencies": {
+        "compression": "*",
+        "connect": "*",
+        "http-proxy": "*",
+        "nodetime": "*",
+        "response-time": "*"
+    },
+    "description": "DropBox web pages personal server",
+    "name": "dbPages",
+    "version": "1.0.0"
+}
