@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "compression": "*",
-    "connect": "*",
+    "connect": ">=3.6.4",
     "http-proxy": "*",
     "nodetime": "*",
     "response-time": "*",
