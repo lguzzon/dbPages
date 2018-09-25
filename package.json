@@ -5,7 +5,7 @@
     "http-proxy": "*",
     "nodetime": "*",
     "response-time": "*",
-    "snyk": "^1.35.0"
+    "snyk": "^1.98.0"
   },
   "description": "DropBox web pages personal server",
   "name": "dbPages",
