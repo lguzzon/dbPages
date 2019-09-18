@@ -2,7 +2,7 @@
   "dependencies": {
     "compression": "*",
     "connect": "*",
-    "http-proxy": "*",
+    "http-proxy": ">=1.18.0",
     "nodetime": "*",
     "response-time": "*",
     "snyk": "^1.35.0"
